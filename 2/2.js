@@ -1,4 +1,4 @@
-// Part one
+// Part two
 
 const fs = require('fs');
 
@@ -57,7 +57,7 @@ function rounds(data) {
             self = draw[opponent];
             points += 3;
         }
-        else if (outcome === 'X') {
+        else {
             self = lose[opponent];
         }
 
