@@ -12,7 +12,7 @@ for ($i=0; $i < strlen($line); $i++) {
 
     array_push($arr, $line[$i]);
     
-    if (count($arr) >= 4) {
+    if (count($arr) >= 14) {
         echo $i+1;
         break;
     }
