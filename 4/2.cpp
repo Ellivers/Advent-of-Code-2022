@@ -5,9 +5,9 @@
 #include <list>
 #include <vector>
 
-class Day1 {
+class Day2 {
     public:
-        Day1() {
+        Day2() {
             std::ifstream input("input.txt");
 
             std::vector<std::vector<int>> ranges;
@@ -35,11 +35,13 @@ class Day1 {
         }
 
     bool fitsIn(int limit1, int limit2, int inner1, int inner2) {
-        return (inner1 >= limit1 && inner2 <= limit2);
+        if (inner1 >= limit1 && inner1 <= limit2) return true;
+        if (inner2 >= limit1 && inner2 <= limit2) return true;
+        return false;
     }
 };
 
 int main() {
-    Day1 day1;
+    Day2 day2;
     return 0;
 }
