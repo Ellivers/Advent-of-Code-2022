@@ -1,0 +1,14 @@
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\bin\Debug\netcoreapp3.1\Day5.exe
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\bin\Debug\netcoreapp3.1\Day5.deps.json
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\bin\Debug\netcoreapp3.1\Day5.runtimeconfig.json
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\bin\Debug\netcoreapp3.1\Day5.runtimeconfig.dev.json
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\bin\Debug\netcoreapp3.1\Day5.dll
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\bin\Debug\netcoreapp3.1\Day5.pdb
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\obj\Debug\netcoreapp3.1\Day5.csproj.AssemblyReference.cache
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\obj\Debug\netcoreapp3.1\Day5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\obj\Debug\netcoreapp3.1\Day5.AssemblyInfoInputs.cache
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\obj\Debug\netcoreapp3.1\Day5.AssemblyInfo.cs
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\obj\Debug\netcoreapp3.1\Day5.csproj.CoreCompileInputs.cache
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\obj\Debug\netcoreapp3.1\Day5.dll
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\obj\Debug\netcoreapp3.1\Day5.pdb
+C:\Users\Elliott\Documents\GitHub\Advent-of-Code-2022\5\Day5\Day5\obj\Debug\netcoreapp3.1\Day5.genruntimeconfig.cache
