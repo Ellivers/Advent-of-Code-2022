@@ -21,7 +21,8 @@ function part1(data) {
     const lines = data.split(/\r?\n/);
 
     lines.forEach(line => {
-        
+        if (line === '') return;
+
         if (lsmode && !line.startsWith('$')) {
             let searchdir = tree;
             for (let i = 0; i < currentdir.length; i++) {
