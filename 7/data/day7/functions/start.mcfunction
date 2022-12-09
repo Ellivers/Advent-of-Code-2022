@@ -4,8 +4,8 @@
 
 function day7:setup
 
-data modify storage day7:storage root.dirs set value []
-data modify storage day7:storage root.dirs append from storage day7:storage root.tree
+data modify storage day7:storage root.dirs set value [{contents:[]}]
+data modify storage day7:storage root.dirs[0].contents set from storage day7:storage root.tree
 scoreboard objectives add day7 dummy
 scoreboard players set $totalSize day7 0
 scoreboard players set $currentSize day7 0
