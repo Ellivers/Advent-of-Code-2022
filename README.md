@@ -10,3 +10,5 @@ Days and languages so far:
 4. C++
 5. C#
 6. PHP
+7. (Unfinished) MCFunction + Javascript
+8. Ruby
